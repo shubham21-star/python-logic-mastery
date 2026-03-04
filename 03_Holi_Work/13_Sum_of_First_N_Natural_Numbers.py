@@ -1,0 +1,11 @@
+# 13_Sum_of_First_N_Natural_Numbers.py
+
+n = int(input("Enter N: "))
+sum = 0
+
+for i in range(1, n + 1):
+    sum += i
+
+print("Name: Shubham Kumar")
+print("Sum =", sum)
+print("Name: Shubham Kumar")
