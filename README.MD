@@ -1,87 +1,96 @@
-<!-- 🌟 C Programming Repository by Shubham Kumar -->
+<!-- 🐍 Python Repository by Shubham Kumar -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Welcome+to+C+Programming+Repository!;Learn+Coding+from+Basics+to+Advanced;Created+by+Shubham+Kumar+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD43B&center=true&vCenter=true&width=600&lines=Welcome+to+Python+Logic+Mastery!;Build+Logic+with+Python+🐍;Practice+%2B+Learn+%2B+Grow+🚀" alt="Typing SVG" />
 </h1>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/IDE-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange" />
 </p>
 
 ---
 
 ## 🧭 About Repository  
 
-This repository is a **complete C programming roadmap**, covering everything from **basic syntax** to **advanced topics** and **mini-projects**.  
+This is a **structured Python roadmap** for improving **logical thinking, problem-solving, and coding skills**.  
 
-Each topic is well-structured into folders, making it **beginner-friendly and professional**.
+It includes:
+- **Structured topic-wise folders**
+- **Practice problems**
+- **Mini-projects**
+- **Seasonal assignments**  
+
+Perfect for beginners to intermediate learners and **portfolio showcase**.
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure & Topics
 
 | Folder | Description | Link |
 |------|------------|------|
-| 01_Basics | Input/Output, variables, data types | ./01_Basics |
-| 02_Conditional_Statements | if-else, switch-case | ./02_Conditional_Statements |
-| 03_Loops | for, while, do-while | ./03_Loops |
-| 04_Functions | Functions, recursion | ./04_Functions |
-| 05_Arrays | 1D & 2D arrays | ./05_Arrays |
-| 06_Strings | String handling | ./06_Strings |
-| 07_Pointers | Memory & pointers | ./07_Pointers |
-| 08_Structures_&_Unions | Structured data | ./08_Structures_&_Unions |
-| 09_File_Handling | File I/O | ./09_File_Handling |
-| 10_Mini_Projects | Practical programs | ./10_Mini_Projects |
+| 01-basics | I/O, variables, and data types | ./01-basics |
+| 02-conditional-statements | If-else and switch-case logic | ./02-conditional-statements |
+| 03-loops | For, while, and do-while loops | ./03-loops |
+| 04-functions | Modular code and recursion | ./04-functions |
+| 05-arrays | 1D and 2D array implementations | ./05-arrays |
+| 06-strings | Character arrays and string manipulation | ./06-strings |
+| 07-dsa | Data Structures (Stacks, Queues, Lists) | ./07-dsa |
+| 08-algorithms | Searching, sorting, and optimization | ./08-algorithms |
+| 09-file-handling | File I/O and persistence | ./09-file-handling |
+| 10-projects | Real-world mini projects | ./10-projects |
+| 11-holi-work | Seasonal assignments and practice | ./11-holi-work |
 
 ---
 
-## 🧠 Concepts Covered
+## ⚡ Example Output
 
-- Input / Output
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions & Recursion
-- Arrays & Strings
-- Pointers
-- Structures & Unions
-- File Handling
+```python
+# 01_basics/hello_world.py
+print("Hello, Python Logic Mastery!")
 
----
+Output:
 
-## ⚙️ How to Run
+Hello, Python Logic Mastery!
+⚙️ How to Run Python Code
+# Run a Python file
+python filename.py
 
-```bash
-gcc filename.c -o output
-./output
+Make sure Python is installed on your system and added to PATH.
 
-```
----
-## 💻 Tools Used
+💻 Tools Used
+Tool	Purpose
+VS Code	Code Editor
+Python	Programming Language
+Git & GitHub	Version Control
+🌟 Contribution
 
-| Tool | Purpose |
-|------|--------|
-| VS Code | Editor |
-| GCC Compiler | Compile & Run C programs |
-| Git & GitHub | Version Control |
+Contributions are welcome! You can:
 
----
+Add new problems in the appropriate folder
+Improve existing solutions
+Add mini-projects or seasonal assignments
 
-## 👨‍💻 Author
+Steps to contribute:
 
-**Shubham Kumar**  
-B.Tech CSE (Data Analytics)  
+fork the repo → clone locally → create a new branch → make changes → push → create pull request
+👨‍💻 Author
 
-📧 Email: shubham.asp21@gmail.com  
-🌐 GitHub: https://github.com/shubham21-star  
+Shubham Kumar
+B.Tech CSE (Data Analytics)
 
----
+📧 Email: shubham.asp.da@gmail.com
 
-> *“Simple code is engineered, not improvised.”*
+🌐 GitHub: https://github.com/shubham21-star
 
-⭐ From **Shubham Kumar**
+📈 GitHub Stats & Profile Badges
+
+
+
+
+“Logic builds code, and code builds confidence.”
+
+⭐ From Shubham Kumar
