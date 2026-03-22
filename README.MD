@@ -49,7 +49,7 @@ Perfect for beginners to intermediate learners and **portfolio showcase**.
 ## ⚡ Example Output
 
 ```python
-# 01_basics/hello_world.py
+-01_basics/hello_world.py
 print("Hello, Python Logic Mastery!")
 
 ```
@@ -61,11 +61,11 @@ Hello, Python Logic Mastery!
 
 ---
 
-#⚙️ How to Run Python Code
-## Run a Python file
-python filename.py
+##⚙️ How to Run Python Code
+ ```Run a Python file
+python filename.py ```
 
-##Make sure Python is installed on your system and added to PATH.
+-Make sure Python is installed on your system and added to PATH.
 
 ---
 
