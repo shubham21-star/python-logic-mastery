@@ -50,7 +50,10 @@ Perfect for beginners to intermediate learners and **portfolio showcase**.
 
 ```python
 # 01_basics/hello_world.py
-print("Hello, Python Logic Mastery!")```
+print("Hello, Python Logic Mastery!")
+
+```
+---
 
 ## Output:
 
