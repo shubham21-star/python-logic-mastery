@@ -50,34 +50,45 @@ Perfect for beginners to intermediate learners and **portfolio showcase**.
 
 ```python
 # 01_basics/hello_world.py
-print("Hello, Python Logic Mastery!")
+print("Hello, Python Logic Mastery!")```
 
-Output:
+## Output:
 
 Hello, Python Logic Mastery!
-⚙️ How to Run Python Code
+
+---
+
+##⚙️ How to Run Python Code
 # Run a Python file
 python filename.py
 
-Make sure Python is installed on your system and added to PATH.
+#Make sure Python is installed on your system and added to PATH.
 
-💻 Tools Used
-Tool	Purpose
-VS Code	Code Editor
-Python	Programming Language
-Git & GitHub	Version Control
-🌟 Contribution
+---
+
+##💻 Tools Used
+-Tool	Purpose
+-VS Code	Code Editor
+-Python	Programming Language
+-Git & GitHub	Version Control
+
+---
+
+##🌟 Contribution
 
 Contributions are welcome! You can:
 
-Add new problems in the appropriate folder
-Improve existing solutions
-Add mini-projects or seasonal assignments
+-Add new problems in the appropriate folder
+-Improve existing solutions
+-Add mini-projects or seasonal assignments
 
-Steps to contribute:
+##Steps to contribute:
 
 fork the repo → clone locally → create a new branch → make changes → push → create pull request
-👨‍💻 Author
+
+---
+
+##👨‍💻 Author
 
 Shubham Kumar
 B.Tech CSE (Data Analytics)
@@ -89,8 +100,8 @@ B.Tech CSE (Data Analytics)
 📈 GitHub Stats & Profile Badges
 
 
+---
 
+##“Logic builds code, and code builds confidence.”
 
-“Logic builds code, and code builds confidence.”
-
-⭐ From Shubham Kumar
+##⭐ From Shubham Kumar
