@@ -61,50 +61,52 @@ Hello, Python Logic Mastery!
 
 ---
 
-##⚙️ How to Run Python Code
-# Run a Python file
+#⚙️ How to Run Python Code
+## Run a Python file
 python filename.py
 
-#Make sure Python is installed on your system and added to PATH.
+##Make sure Python is installed on your system and added to PATH.
 
 ---
 
-##💻 Tools Used
--Tool	Purpose
--VS Code	Code Editor
--Python	Programming Language
--Git & GitHub	Version Control
+## 💻 Tools Used
+
+| Tool | Purpose |
+|------|----------|
+| 🧠 **VS Code** | For writing & debugging C++ programs |
+| 🖥️ **G++ Compiler** | To compile C++ programs |
+| 🐙 **Git & GitHub** | Version control and collaboration |
+| 📘 **Markdown** | For creating README documentation |
 
 ---
 
-##🌟 Contribution
+## 🔰 Tips for Beginners  
 
-Contributions are welcome! You can:
-
--Add new problems in the appropriate folder
--Improve existing solutions
--Add mini-projects or seasonal assignments
-
-##Steps to contribute:
-
-fork the repo → clone locally → create a new branch → make changes → push → create pull request
+- ✨ Start with simple programs and focus on **understanding logic**  
+- ⚙️ Practice writing `if`, `for`, `while` manually (no copy-paste)  
+- 🔄 Dry-run loops and conditions on paper  
+- 🧩 Comment your code to understand it better  
+- 💡 Gradually combine multiple concepts in mini-projects  
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author  
 
-Shubham Kumar
-B.Tech CSE (Data Analytics)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/shubham21-star" width="120" style="border-radius:50%;" alt="Shubham Kumar Avatar"/>
+</p>
 
-📧 Email: shubham.asp.da@gmail.com
-
-🌐 GitHub: https://github.com/shubham21-star
-
-📈 GitHub Stats & Profile Badges
-
+<p align="center">
+  <b>Shubham Kumar</b><br>
+  💻 B.Tech 1st Year | Aspiring Full Stack Developer<br>
+  📧 <a href="mailto:shubham.asp21@gmail.com">shubham.asp21@gmail.com</a><br>
+  🌐 <a href="https://github.com/shubham21-star" target="_blank">GitHub Profile</a>
+</p>
 
 ---
 
-##“Logic builds code, and code builds confidence.”
+## ✨ Quote of the Day  
 
-##⭐ From Shubham Kumar
+> “Don’t just write code — understand why it works.” 💡
+
+<p align="center">⭐ From <b>Shubham Kumar</b> with ❤️</p>
