@@ -1,4 +1,4 @@
-<!-- 🌟 C Programming Repository by Shubham Kumar -->
+  <!-- 🌟 C Programming Repository by Shubham Kumar -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Welcome+to+C+Programming+Repository!;Learn+Coding+from+Basics+to+Advanced;Created+by+Shubham+Kumar+💻" alt="Typing SVG" />
